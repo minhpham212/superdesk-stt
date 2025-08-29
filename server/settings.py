@@ -143,6 +143,7 @@ INSTALLED_APPS = [
     "stt.ai_proxy",
     "stt.paivalista_filters",
     "stt.stt_ntb_ninjs_parse",
+    "stt.stt_tt_new_parse_ninjs",
 ]
 
 # enable legal archive is enabled
